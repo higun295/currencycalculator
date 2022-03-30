@@ -1,0 +1,15 @@
+E:\Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe.config
+E:\Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+E:\Projects\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.AssemblyReference.cache
+E:\Projects\CurrencyCalculator\obj\Debug\MainWindow.g.cs
+E:\Projects\CurrencyCalculator\obj\Debug\App.g.cs
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator_MarkupCompile.cache
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator_MarkupCompile.lref
+E:\Projects\CurrencyCalculator\obj\Debug\MainWindow.baml
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.g.resources
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.Properties.Resources.resources
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.GenerateResource.cache
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.exe
+E:\Projects\CurrencyCalculator\obj\Debug\CurrencyCalculator.pdb
